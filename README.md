@@ -50,7 +50,7 @@ I'm a **Backend Developer** based in Madrid, transitioning into the world of **A
 
 <div align="center">
   <br>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/carlosgarciatovar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
