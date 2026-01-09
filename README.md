@@ -54,4 +54,6 @@ I'm a **Backend Developer** based in Madrid, transitioning into the world of **A
   <a href="https://www.linkedin.com/in/carlosgarciatovar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Xarli11&color=blueviolet" alt="Views" />
 </div>
