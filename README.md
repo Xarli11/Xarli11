@@ -43,10 +43,11 @@ I'm a **Backend Developer** based in Madrid, transitioning into the world of **A
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xarli11&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xarli11&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xarli11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <br>
