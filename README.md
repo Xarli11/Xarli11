@@ -45,10 +45,8 @@ I'm a **Backend Developer** based in Madrid, transitioning into the world of **A
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xarli11&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xarli11&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xarli11&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xarli11&layout=compact&theme=tokyonight&hide_border=true)
 
 <div align="center">
   <br>
