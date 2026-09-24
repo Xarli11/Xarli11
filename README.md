@@ -1,59 +1,102 @@
-# Hi there! I'm Xarli11 👋
+# Hi, I'm Carlos 👋
 
-### 👨‍💻 Backend Developer & AI Enthusiast
+### Software Engineer | Artificial Intelligence & Machine Learning | Python | Backend | Data
 
-I'm a **Backend Developer** based in Madrid, transitioning into the world of **Artificial Intelligence**. Currently pursuing a Master's in Artificial Intelligence at **Universidad Europea de Madrid**, combining my solid engineering background with modern ML techniques.
+Software Engineer with professional experience building backend systems, microservices, REST APIs and data-driven applications in enterprise environments.
 
-- 🔭 I’m currently working on **Advanced Backend Systems** & **Deep Learning Models**.
-- 🌱 I’m currently learning **Neural Networks, NLP, and MLOps**.
-- 💼 Open to work in **Backend Development** (Java/Python) and **AI/Data Science** roles.
+My work combines **Software Engineering** with **Artificial Intelligence and Machine Learning**, with a particular interest in building reliable AI-powered systems and turning experimental models into real software.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Backend & Data**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Frontend & Tools**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+I enjoy working across the full technical stack: from data and backend architecture to machine learning, optimization and intelligent systems.
 
 ---
 
-### 🚀 Featured Projects
+## 🤖 AI & Machine Learning
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[PokeTypes](https://github.com/Xarli11/PokeTypes)** | 🛡️ Interactive visual tool to explore Pokémon type effectiveness, weaknesses, and resistances. | `JavaScript` `Tailwind` `HTML5` |
-| **F1 Data Live** | 🏎️ Real-time Formula 1 data visualization dashboard. (Work in Progress) | `React` `TypeScript` `Vite` |
-| **Stock Management** | 📦 Robust inventory and stock management system with enterprise-grade architecture. | `Java` `Spring Boot` `Maven` |
-| **AI Experiments** | 🧠 Collection of Machine Learning notebooks and models developed during my Master's at UEM. | `Python` `Jupyter` `PyTorch` |
+- Python
+- PyTorch
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- Genetic Algorithms
+- Combinatorial Optimization
+
+## 💻 Software Engineering
+
+- Java / Spring Boot
+- TypeScript
+- React / Next.js
+- REST APIs
+- Microservices
+- SQL / PostgreSQL / Oracle
+- Supabase
+- Git / GitHub
+- JUnit / Mockito / Cucumber
 
 ---
 
-### 📊 GitHub Activity
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xarli11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### 🧠 Area Zero
+**AI-powered competitive team optimization**
 
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/carlosgarciatovar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Xarli11&color=blueviolet" alt="Views" />
-</div>
+Artificial Intelligence system developed as my Master's Thesis, focused on solving a large combinatorial optimization problem in a competitive strategy environment.
+
+The project explores and evaluates different AI approaches, including **evolutionary algorithms, Deep Learning and Reinforcement Learning**, using automated simulation and experimental evaluation.
+
+`Python` `PyTorch` `Machine Learning` `Deep Learning` `Reinforcement Learning`
+
+> The implementation is currently private.
+
+---
+
+### ⚙️ PokeStudio
+**Team building, exploration and battle analysis platform**
+
+Open-source platform designed around competitive Pokémon analysis, team building and battle mechanics.
+
+Built with a modern full-stack architecture, automated data ingestion, a normalized relational data model and integration with a deterministic battle engine.
+
+`Next.js` `TypeScript` `PostgreSQL` `Supabase`
+
+> Currently in development.
+
+---
+
+### 🔷 PokeTypes
+**Pokémon type effectiveness & team analysis**
+
+Web application focused on making type interactions and team weaknesses easy to understand.
+
+Includes Pokémon and type exploration, team building, competitive analysis, shareable teams, bilingual ES/EN support and PWA functionality.
+
+`TypeScript` `React` `PWA` `Web Development`
+
+🌐 https://poketypes.app
+
+---
+
+### 📚 Pokepedia
+**Pokémon information and exploration platform**
+
+Web application designed to provide a fast and intuitive way to explore structured Pokémon information.
+
+Built as a production web project with a focus on data integration, usability and scalable content architecture.
+
+`Web Development` `REST APIs` `Data Integration`
+
+🌐 https://pokepedia.app
+
+---
+
+## 🎓 Background
+
+🎓 Master's Degree in Applied Artificial Intelligence  
+💼 Professional experience as a Software Engineer in financial-sector projects  
+🌍 Spanish — Native | English — C1
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/carlosgarciatovar
+- GitHub: https://github.com/Xarli11
